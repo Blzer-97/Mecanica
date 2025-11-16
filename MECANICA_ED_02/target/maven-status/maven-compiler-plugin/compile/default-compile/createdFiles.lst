@@ -1,0 +1,12 @@
+grupo2\mecanica_ed_02\MECANICA_ED_02.class
+grupo2\mecanica_ed_02\Modelos\MovimientoInventario.class
+grupo2\mecanica_ed_02\Persistence\GestorDatosJSON.class
+grupo2\mecanica_ed_02\Modelos\Configuracion.class
+grupo2\mecanica_ed_02\Modelos\TipoMovimiento.class
+grupo2\mecanica_ed_02\Modelos\Venta.class
+grupo2\mecanica_ed_02\Modelos\Producto.class
+grupo2\mecanica_ed_02\Service\ConfigService.class
+grupo2\mecanica_ed_02\Service\ProductoService.class
+grupo2\mecanica_ed_02\Modelos\ItemVenta.class
+grupo2\mecanica_ed_02\Modelos\Servicio.class
+grupo2\mecanica_ed_02\Service\InventarioService.class
