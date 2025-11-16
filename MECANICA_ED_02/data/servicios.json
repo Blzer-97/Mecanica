@@ -1,9 +1,0 @@
-[ {
-  "id" : 123,
-  "nombre" : "ARROZ",
-  "precio" : 14.5
-}, {
-  "id" : 124,
-  "nombre" : "Reparacion",
-  "precio" : 140.12
-} ]
