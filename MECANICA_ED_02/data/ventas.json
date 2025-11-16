@@ -1,0 +1,25 @@
+[ {
+  "id" : "V-7caca7b6",
+  "fecha" : "2025-11-15T05:41:58.397+0000",
+  "nombreCliente" : null,
+  "items" : [ {
+    "skuOId" : "123",
+    "esProducto" : true,
+    "descripcion" : null,
+    "cantidad" : 3,
+    "precioUnitarioVenta" : 10.0,
+    "precioUnitarioCosto" : 12.0
+  }, {
+    "skuOId" : "41",
+    "esProducto" : true,
+    "descripcion" : null,
+    "cantidad" : 3,
+    "precioUnitarioVenta" : 3.0,
+    "precioUnitarioCosto" : 2.0
+  } ],
+  "subtotal" : 39.0,
+  "igv" : 7.02,
+  "descuento" : 0.0,
+  "total" : 46.019999999999996,
+  "margenGanancia" : -0.07142857142857142
+} ]

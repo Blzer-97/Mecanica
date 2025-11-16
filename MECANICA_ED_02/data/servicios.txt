@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cambio de Aceite",
+    "precio": 50.0
+  },
+  {
+    "id": 2,
+    "nombre": "Alineación",
+    "precio": 80.0
+  },
+  {
+    "id": 3,
+    "nombre": "Lavado General",
+    "precio": 30.0
+  }
+]
